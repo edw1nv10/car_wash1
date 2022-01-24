@@ -1,0 +1,2 @@
+# autolavado
+ proyecto

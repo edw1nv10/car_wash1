@@ -1,0 +1,85 @@
+input:valid {
+  background-color: powderblue;
+}
+input:invalid {
+  background-color:pink;
+}
+.nav-link {
+  color:black !important;
+  font-family: 'arial', 'sans-serif' !important;
+  font-size: 20px;
+
+}
+
+ body{
+	color:#F28B0C !important;
+  background-color:black!important;
+}
+.nav-pills .nav-link.active,
+.show>.nav-pills .nav-link{
+    background: white !important;
+    color:black !important;
+}
+.contenedor{
+  background:rgba(0, 0, 0, 0.4) url("../img/carwash5.jpeg");
+	width: 100%;
+  background-size:100% 100%;
+  height: 100vh;
+  background-attachment: fixed;
+}
+.titu{
+  padding-top:5%;
+  color:white;
+  margin-left:3%;
+
+
+}
+.titu2{
+  padding-top:10%;
+  color:#F28B0C;
+  margin-left:3%;
+
+}
+.tarjetas{
+  margin-left:1%;
+}
+nav.navbar ul.nav li a {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#F28B0C!important;
+  font-size:30px;
+}
+.cotizacion{
+  border: solid 1px ;
+  background:white;
+  color:black;
+  font-size:20px;
+}
+.precio{
+  border: solid 1px ;
+  padding:10px;
+  margin-bottom:10px;
+}
+.boton{
+  margin-top:10%;
+  margin-bottom:10%;
+
+}
+.botton:hover {
+  background-color: rgb(37, 21, 173); /* Green */
+  border: none;
+  color: white!important;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+  margin: 4px 2px;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.botton {
+  background-color: rgb(37, 21, 173)!important;
+  color: white !important;
+  border: 2px solid #4CAF50;
+  font-size:50px!important;
+}
